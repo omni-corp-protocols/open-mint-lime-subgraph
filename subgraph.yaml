@@ -1,6 +1,6 @@
 specVersion: 0.0.2
-description: Omnivault.
-repository: https://github.com/omni-corp-protocols/omnivault-hotcross-subgraph
+description: open-minter.
+repository: https://github.com/omni-corp-protocols/open-mint-lime-subgraph
 schema:
   file: ./schema.graphql
 dataSources:
